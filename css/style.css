@@ -6,3 +6,18 @@
     text-decoration: none;
     font-weight: 700;
 }
+
+.producto {
+    background-color: #E5E5E5;
+}
+
+.carga-imagen {
+    border: 2px dashed #E5E5E5;
+    padding: 20px;
+    color: #464646;
+    font-size: 14px;
+}
+
+footer {
+    padding: 15px 0;
+}
